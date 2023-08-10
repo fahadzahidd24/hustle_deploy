@@ -1,0 +1,16 @@
+
+Base URL 
+http://localhost:4000/api
+
+user Routes...
+/userUpdate
+/userDetails/:accountName
+
+auth routes..
+/signUp
+/signIn
+
+feed routes..
+/jobs
+/createFeed
+/feeds
